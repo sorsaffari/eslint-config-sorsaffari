@@ -1,0 +1,11 @@
+{
+  "name": "eslint-config-sorsaffari",
+  "version": "1.0.0",
+  "description": "A set of eslint rules for my personal projects",
+  "main": "index.js",
+  "author": "dev@soroushsaffari.com",
+  "license": "ISC",
+  "peerDependencies": {
+    "eslint": ">= 3"
+  }
+}
