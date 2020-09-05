@@ -3,8 +3,12 @@
   "version": "1.0.0",
   "description": "A set of eslint rules for my personal projects",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sorsaffari/eslint-config-sorsaffari"
+  },
   "author": "dev@soroushsaffari.com",
-  "license": "ISC",
+  "license": "MIT",
   "peerDependencies": {
     "eslint": ">= 3"
   }
