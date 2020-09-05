@@ -13,10 +13,7 @@ In `.eslintrc.js`:
 
 ```javascript
 module.exports = {
-    extends: [
-        "react-app",
-        "sorsaffari",
-    ],
+    extends: ["sorsaffari"],
     rules: {
     }
 };
