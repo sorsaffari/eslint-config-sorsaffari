@@ -14,7 +14,6 @@ In `.eslintrc.js`:
 ```javascript
 module.exports = {
     extends: ["sorsaffari"],
-    rules: {
-    }
+    rules: {}
 };
 ```
