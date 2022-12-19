@@ -13,6 +13,7 @@
     "eslint": ">= 3"
   },
   "dependencies": {
+    "eslint-import-resolver-ts": "^0.4.2",
     "eslint-plugin-import": "^2.26.0"
   }
 }
